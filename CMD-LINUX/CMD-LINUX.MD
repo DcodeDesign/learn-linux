@@ -10,10 +10,10 @@ Command Linux
  #short help
  root@debian:~# [cmd] —help
 
+ #clean screen
  root@debian:~# clear (clean screen)
 
 ```
-
 
 Notations :
 ```
