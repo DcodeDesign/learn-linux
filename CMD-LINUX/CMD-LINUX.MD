@@ -39,7 +39,7 @@ root@debian:~# passwd
 # permet de changer le mot de passe d'un utilisateur
 root@debian:~# passwd [name user]
 ```
-remarque :
+remarques :
 
 tabulation x2 propose des commands
 ```
@@ -51,5 +51,4 @@ manpath
 ...
 ```
 
-remarque :
-flèche haut on récupéré les commandes tapées
+flèche haut permet de récupérer les commandes tapées
