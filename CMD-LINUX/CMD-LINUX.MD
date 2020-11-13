@@ -1,12 +1,15 @@
 Command Linux 
 
 ```
- #current working directory
+ # current working directory
  root@debian:~# Pwd
 
-    
- root@debian:~# man [cmd] (help)
- root@debian:~# [cmd] —help (short help)
+ # help  
+ root@debian:~# man [cmd]
+
+ #short help
+ root@debian:~# [cmd] —help
+
  root@debian:~# clear (clean screen)
 
 ```
@@ -35,6 +38,6 @@ manpath
 Ajouter un utilisateur
 ```
 root@debian:~# adduser [name] 
-root@debian:~# --remove-all-files
+root@debian:~# deluser --remove-home [name] 
 ```
 
