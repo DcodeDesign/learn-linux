@@ -32,10 +32,9 @@ manpath
 ...
 ```
 
-Ajouter un utilisateur`
-
-``
+Ajouter un utilisateur
+```
 root@debian:~# adduser [name] 
-root@debian:~# 
+root@debian:~# --remove-all-files
 ```
 
