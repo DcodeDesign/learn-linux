@@ -1,3 +1,5 @@
+Install Doc : https://www.debian.org/releases/stable/i386/
+
 Command Linux 
 
 ```
