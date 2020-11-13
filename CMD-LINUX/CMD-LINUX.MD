@@ -11,7 +11,7 @@ Command Linux
  root@debian:~# [cmd] —help
 
  #clean screen
- root@debian:~# clear (clean screen)
+ root@debian:~# clear
 
 ```
 
