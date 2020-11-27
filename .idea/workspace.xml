@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e375964-bdfc-4915-85f8-07297efbe9b4" name="Default Changelist" comment="" />
+    <list default="true" id="7e375964-bdfc-4915-85f8-07297efbe9b4" name="Default Changelist" comment="Command linux : mise en page">
+      <change afterPath="$PROJECT_DIR$/CMD-LINUX/COURS-2.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMD-LINUX/COURS-3.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMD-LINUX/CMD-LINUX.MD" beforeDir="false" afterPath="$PROJECT_DIR$/CMD-LINUX/COURS-1.MD" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jPJl6NsrbttOI7iUOfz1zQsmUa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,6 +45,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CMD-LINUX" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -26,11 +59,112 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603699941456</updated>
-      <workItem from="1603699942622" duration="296000" />
+      <workItem from="1603699942622" duration="353000" />
+      <workItem from="1605296688346" duration="1703000" />
+      <workItem from="1605893728288" duration="6860000" />
+      <workItem from="1606496777557" duration="7859000" />
     </task>
+    <task id="LOCAL-00001" summary="Command linux">
+      <created>1605297095465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605297095465</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Command linux : Ajouter un utilisateur">
+      <created>1605297207651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605297207651</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Command linux : Ajouter un utilisateur">
+      <created>1605297312304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605297312304</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Command linux : delete user">
+      <created>1605297509756</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605297509756</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Command linux : delete use + change password">
+      <created>1605297722866</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605297722866</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Command linux : mise en page">
+      <created>1605297799673</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605297799673</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Command linux : mise en page">
+      <created>1605297887028</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605297887028</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Command linux : mise en page">
+      <created>1605297911877</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605297911877</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Command linux : mise en page">
+      <created>1605297973578</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605297973578</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Command linux" />
+    <MESSAGE value="Command linux : Ajouter un utilisateur" />
+    <MESSAGE value="Command linux : delete user" />
+    <MESSAGE value="Command linux : delete use + change password" />
+    <MESSAGE value="Command linux : mise en page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Command linux : mise en page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1127" y="455" key="Github.ShareDialog" timestamp="1603700705006">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1127" y="455" key="Github.ShareDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603700705006" />
+    <state x="-1239" y="263" key="Github.UntrackedFilesDialog" timestamp="1603700711894">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1239" y="263" key="Github.UntrackedFilesDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1603700711894" />
+    <state x="-1543" y="291" key="Vcs.Push.Dialog.v2" timestamp="1605297976271">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1543" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605297976271" />
   </component>
 </project>

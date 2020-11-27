@@ -15,6 +15,11 @@ Command Linux
 
 ```
 
+changer de terminal 
+```
+CTRL+ALT+F1 / F2 / F3
+```
+
 Notations :
 ```
  root@debian:~# Is -a -t -h
@@ -38,6 +43,15 @@ root@debian:~# passwd
 
 # permet de changer le mot de passe d'un utilisateur
 root@debian:~# passwd [name user]
+```
+
+IP de la machine
+```
+root@debian:~# hostname -I
+root@debian:~# apt-get update
+root@debian:~# apt-get upgrade
+root@debian:~# apt-get install
+root@debian:~# apt-get install openssh-server
 ```
 remarques :
 
