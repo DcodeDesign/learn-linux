@@ -68,8 +68,8 @@ Ainsi, pour le fichier forum.xcf, on a :
  - Le 1er caractère est - ⇒ c'est un fichier.
  - Le premier groupe de 3 caractères est rw- ⇒ le propriétaire a le droit de lecture et écriture (mais pas d'exécution) sur le fichier.
  - Les 2 groupes suivants sont r-- ⇒ Les utilisateurs du groupe et les autres n'ont que le droit de lecture (pas d'écriture, ni d'exécution) .
-
-
+    
+    
     R = 4
     W = 2
     X = 1
@@ -102,8 +102,6 @@ Ainsi, pour le fichier forum.xcf, on a :
     stat [file]
     
 # Droit Spéciaux
-
- 
 
                     Set UID             Set GID             Sticky Bit   
                       
@@ -155,6 +153,24 @@ Ainsi, pour le fichier forum.xcf, on a :
       gpasswd -a [user] [group]
       gpasswd -M [user],[user],[user] [group]
 
-Exercice :
-    pour 20h00 vendredi
+
     
+## Création du fichier de bienvenu
+    touch [name_file]
+    mkdir [name_folder]
+    
+## Création des users
+> https://doc.ubuntu-fr.org/adduser
+
+    adduser [name] [group]
+    userdel [name]
+    userdel -r [name]
+    
+## Création des groupes
+
+     groupadd [name_group]
+     sudo adduser [user_name] [new_group]
+
+## Se connecter en tant que
+    su - [name_user] 
+
