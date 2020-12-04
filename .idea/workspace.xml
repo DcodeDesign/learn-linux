@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e375964-bdfc-4915-85f8-07297efbe9b4" name="Default Changelist" comment="Command linux : mise en page">
-      <change afterPath="$PROJECT_DIR$/CMD-LINUX/TP-01.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMD-LINUX/COURS-3.MD" beforeDir="false" afterPath="$PROJECT_DIR$/CMD-LINUX/COURS-3.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMD-LINUX/TP-01.MD" beforeDir="false" afterPath="$PROJECT_DIR$/CMD-LINUX/TP-01.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <workItem from="1605893728288" duration="6860000" />
       <workItem from="1606496777557" duration="8269000" />
       <workItem from="1607001713432" duration="3352000" />
-      <workItem from="1607089812603" duration="5222000" />
+      <workItem from="1607089812603" duration="5920000" />
     </task>
     <task id="LOCAL-00001" summary="Command linux">
       <created>1605297095465</created>
@@ -135,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606508062717</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit TP &amp;">
+      <created>1607107468672</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607107468673</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +166,8 @@
     <MESSAGE value="Command linux : delete use + change password" />
     <MESSAGE value="Command linux : mise en page" />
     <MESSAGE value="COURS 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="COURS 3" />
+    <MESSAGE value="commit TP &amp;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit TP &amp;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1226" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607003191006">
